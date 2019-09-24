@@ -6,9 +6,13 @@
 ***Third Attempty - starting 24th September 2019***
 ***
 
-Day :
+***Day*** :
 ------
-*****Today's Progress*****:
+
+*Today's Progress*:
+
 *Thoughts*:
+
 *Link to work*:
+
 *Thing(s) learned*:
