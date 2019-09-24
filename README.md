@@ -7,7 +7,7 @@ Code Learning Path
 
 ## Skills
 
-![done](img/tick_green.png | width=24)
+[done]: img/tick_green_small.png "Done"
 
 |            Skill           | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
