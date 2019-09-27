@@ -19,3 +19,5 @@ Look a little bit deeper, and what we find is a carefully-structured document di
   - there's the main section containing an article which in turn contains a heading or collection of paragraphs and an image.
   - there's a sidebar section with some advertising.
   - there's a footer section with company information. 
+
+**The web browser is an advanced viewer for web documents.**
