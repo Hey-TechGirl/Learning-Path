@@ -31,5 +31,7 @@ Web design also requires a good understanding of how people experience sites and
 
 CSS stands for ***Cascading Style Sheets***. CSS is about defining a set of rules, or style sheets, for how the DOM is translated into visual form. The second part is the cascading style rules. Those are a set of rules that describe the priority of how the styles are rendered on a page.
 
-Example [CSS Zen Garden](http://www.csszengarden.com/){:target="_blank"}
+Example [CSS Zen Garden](http://www.csszengarden.com/)
+
+The CSS language is always changing. There have been three major revisions and the third revision CSS3, has been split into independent modules that will expand in the future. 
 
