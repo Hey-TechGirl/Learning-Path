@@ -63,3 +63,6 @@ They are used to write or develop the code that powers the web and since that co
 
 First, there is the syntax highlighting. The point of syntax highlighting is to make sure the developer can see, at a glance, what a certain string of code is doing and whether it's doing the right thing. Secondly, most code editors provide code hinting. Start typing something and the editor will provide you with a list of similar available options, making your process quicker and less error-prone. Thirdly, most code editors provide project management, allowing you to define a folder as a project and work within it. This includes project navigation to access all project files, project-wide debugging, and more.
 
+### Events
+-----
+Whenever you interact with the browser in any way, you fire an event and the browser reacts to that event with pre-configured responses.
