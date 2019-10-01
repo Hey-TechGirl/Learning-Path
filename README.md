@@ -48,7 +48,7 @@ Code Learning Path
 |     Progress     |   Year   |            Description             |       Tutor      | 
 |:----------------:|:--------:|:----------------------------------:|:----------------:|
 |        0%        |   2019   |                CS50                |  David J. Malan  |
-|        0%        | Sep-2019 |  Become a Front-End Web Developer  |                  |
+|        3%        | Sep-2019 |  Become a Front-End Web Developer  |      Linda       |
 |                  |          |                                    |                  |
 |                  |          |                                    |                  |
 |                  |          |                                    |                  |
